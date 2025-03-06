@@ -23,7 +23,7 @@ const experienceData = [
 
 const educationData = [
   {
-    degree: 'Bachelor of Software Development',
+    degree: 'Diploma of Software Development',
     institution: 'Durban University of Technology',
     description: 'Relevant coursework: Data Structures, Algorithms, BackEnd Development, Database Systems.'
   }
