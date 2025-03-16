@@ -24,7 +24,7 @@ const experienceData = [
 
 const educationData = [
   {
-    degree: 'Bachelor of Software Development',
+    degree: 'National Diploma Information Technology (Software Development)',
     institution: 'Durban University of Technology',
     period: '2018 - 2022',
     description: 'Focused on software engineering principles, data structures, algorithms, backend development, and database systems. Completed practical projects in various programming languages and frameworks.',
