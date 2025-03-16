@@ -26,7 +26,6 @@ const educationData = [
   {
     degree: 'National Diploma Information Technology (Software Development)',
     institution: 'Durban University of Technology',
-    period: '2018 - 2022',
     description: 'Focused on software engineering principles, data structures, algorithms, backend development, and database systems. Completed practical projects in various programming languages and frameworks.',
     coursework: ['Data Structures', 'Algorithms', 'Backend Development', 'Database Systems', 'Software Engineering']
   }
@@ -98,8 +97,6 @@ const Experience: React.FC = () => {
                     <h4 className="text-lg font-medium">{edu.degree}</h4>
                     <div className="flex flex-wrap items-center gap-2 mt-1 mb-2">
                       <span className="text-sm text-primary font-medium">{edu.institution}</span>
-                      <span className="text-xs text-muted-foreground">•</span>
-                      <span className="text-sm text-muted-foreground">{edu.period}</span>
                     </div>
                     <p className="text-sm text-muted-foreground mb-3">{edu.description}</p>
                     <div className="mt-3">
